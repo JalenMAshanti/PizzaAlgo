@@ -1,4 +1,6 @@
-1. look at menu
+1(drive to pizza store)
+1a. look at menu
+
 2. Decide which toppings we want
 3. Place order
 4. Pay for order
